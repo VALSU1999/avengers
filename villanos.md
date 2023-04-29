@@ -2,4 +2,3 @@
 
 *Mario
 *Vegueta
-*capitan america
